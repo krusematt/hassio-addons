@@ -1,5 +1,5 @@
 {
-  "name": "Hass.IO Repository for snowzach",
-  "url": "https://github.com/snowzach/hassio-addons",
-  "maintainer": "Zach Brown <zach@prozach.org>"
+  "name": "Forked Hass.IO Repository for snowzach",
+  "url": "https://github.com/krusematt/hassio-addons",
+  "maintainer": "me@matthewkruse.com"
 }
