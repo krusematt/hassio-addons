@@ -9,6 +9,7 @@
   ],
   "startup": "before",
   "boot": "auto",
+  "full_access": true,
   "map": [
     "share"
   ],
