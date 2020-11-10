@@ -1,1 +1,1 @@
-FROM frigate:stable-amd64nvidia
+FROM krusematt/frigate:stable-amd64nvidia
