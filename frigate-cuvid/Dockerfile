@@ -1,1 +1,1 @@
-FROM blakeblackshear/frigate:stable-amd64nvidia
+FROM frigate:stable-amd64nvidia
