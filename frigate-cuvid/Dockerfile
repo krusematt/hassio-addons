@@ -1,2 +1,1 @@
-ARG BUILD_ARCH
-FROM blakeblackshear/frigate:stable-${BUILD_ARCH}nvidia
+FROM blakeblackshear/frigate:stable-amd64nvidia
