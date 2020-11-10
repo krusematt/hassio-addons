@@ -48,7 +48,7 @@
   "schema": false,
   "services": ["mqtt:need"],
   "arch": [
-    "amd64nvidia",
+    "amd64",
   ],
   "map": [
     "media:rw"
