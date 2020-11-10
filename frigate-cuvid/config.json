@@ -2,7 +2,7 @@
   "name": "Frigate NVR Cuvid",
   "version": "stable",
   "panel_icon": "mdi:cctv",
-  "slug": "frigate",
+  "slug": "frigate-cuvid",
   "description": "NVR with realtime local object detection for IP cameras, CUVID enabled",
   "url": "https://github.com/krusematt/hassio-addons/tree/master/frigate-cuvid",
   "startup": "application",
